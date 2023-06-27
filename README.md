@@ -2,7 +2,7 @@
 <br><br>
 
 
-## <p align="center><h4 align="center"><samp> An aspirant for Full Stack Python Developer, An Ex-Asst.Manager at BankofBaroda </samp><h4></p>
+## <p align="center"><h4 align="center"><samp> An aspirant for Full Stack Python Developer, An Ex-Asst.Manager at BankofBaroda </samp><h4></p>
 
 
 <a href="http://www.linkedin.com/in/swathihemalatha/">
