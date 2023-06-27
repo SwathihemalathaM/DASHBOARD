@@ -1,13 +1,11 @@
-#Namaste <img src="https://www.pinterest.com/pin/646407352767844876/" width="25px"> I'm [Swathi Hemalatha Munasa](http://github.com/SwathihemalathaM)
+# Namaste <img src="https://www.pinterest.com/pin/646407352767844876/" width="25px"> I'm [Swathi Hemalatha Munasa](http://github.com/SwathihemalathaM)
 <br><br>
-
-
-## <p align="center"><h4 align="center"><samp> An aspirant for Full Stack Python Developer, An Ex-Asst.Manager at BankofBaroda </samp><h4></p>
-
 
 <a href="http://www.linkedin.com/in/swathihemalatha/">
 <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="25px">
 </a>
+
+## <p align="center"><h4 align="center"><samp> An aspirant for Full Stack Python Developer, An Ex-Asst.Manager at BankofBaroda </samp><h4></p>
 
 
 <div>
